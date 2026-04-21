@@ -19,7 +19,7 @@ This project is a Python-based attendance tracker designed to manage and analyze
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/mborst-bit/Attendance-Tracker.git
 2. Open attendance.csv and replace everything from "name_1" downwards with the names of the members you want to track.
 3. Open the notebook:
    ```bash
